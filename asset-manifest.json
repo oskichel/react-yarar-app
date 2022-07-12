@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-yarar-app/static/css/main.3ab001f4.css",
+    "main.js": "/react-yarar-app/static/js/main.7bb8dfef.js",
+    "static/media/kamchatka.jpg": "/react-yarar-app/static/media/kamchatka.f0507d58f472df6b9e07.jpg",
+    "index.html": "/react-yarar-app/index.html",
+    "main.3ab001f4.css.map": "/react-yarar-app/static/css/main.3ab001f4.css.map",
+    "main.7bb8dfef.js.map": "/react-yarar-app/static/js/main.7bb8dfef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab001f4.css",
+    "static/js/main.7bb8dfef.js"
+  ]
+}
