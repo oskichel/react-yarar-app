@@ -4,9 +4,8 @@ import GoodList from './components/GoodList/GoodList';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+        <h1>Интересные предложения</h1>
         <GoodList />
-      </header>
     </div>
   );
 }
