@@ -18,3 +18,9 @@ h1 {
   text-align: center;
   color: #000000;
 }
+
+@media (min-width: 320px) and (max-width: 575px) {
+  h1 {
+    font-size: 20px;
+  }
+}

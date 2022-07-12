@@ -37,7 +37,7 @@
   }
 }
 
-@media (min-width: 400px) and (max-width: 575px) {
+/*@media (min-width: 400px) and (max-width: 575px) {
   .container {
     min-width: 320px;
     column-gap: 10px;
@@ -56,9 +56,9 @@
     width: 10px;
     height: 19px;
   }
-}
+}*/
 
-@media (min-width: 350px) and (max-width: 399px) {
+@media (min-width: 320px) and (max-width: 575px) {
   .container {
     width: 320px;
     margin:0 auto;
